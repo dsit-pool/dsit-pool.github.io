@@ -3,4 +3,5 @@
 "description": "SPO based in The Netherlands",
 "ticker": "DSIT",
 "homepage": "https://dsit-pool.github.io/"
+"extended": "https://dsit-pool.github.io/extended-metadata.json"  
 }
